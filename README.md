@@ -1,3 +1,10 @@
+---
+title: "My Report"
+output: 
+  html_document:
+    number_sections: true
+---
+
 <a name="top"></a>
 # javascriptman
 # [INDEX:](#item0)
