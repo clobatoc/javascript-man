@@ -23,3 +23,4 @@ Los valores son de tipos diferentes Números, fragmentos de texto, funciones, et
         - `Hola mundo`. acento grabe (Backticks)
         - "Hola mundo". comillas dobles(double quotes).    
         - Si se quiere poner un salto de línea se tiene que escapar dentro de las comillas, con el acento grabe no hace falta escapar.
+2.
