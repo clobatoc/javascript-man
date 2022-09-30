@@ -60,12 +60,43 @@ Normal.
 
 Se representan de tres formas.
 
-- 'Hola mundo'. Comillas simples (singe quotes).
-- \`Hola mundo\`. acento grabe (Backticks)
-- "Hola mundo". comillas dobles(double quotes).
-- Si se quiere poner un salto de línea se tiene que escapar dentro de las comillas, con el acento grabe no hace falta escapar.
+#### 2.5.1. Acento grabe (Backticks)
+```js
+`Hola mundo`
+```
+#### 2.5.2. Comillas simples (singe quotes). 
+
+```js
+
+'Hola mundo'
+
+```
+
+#### 2.5.3. Comillas dobles(double quotes).
+
+```js
+"Hola mundo"
+```
+
+
+ Si se quiere poner un salto de línea se tiene que escapar dentro de las comillas, con el acento grabe no hace falta escapar. 
+
+```js
+
+"Esta es la primera línea\n y esta es la segunda"
+
+```
+
+Salida:
+
+```text
+Esta es la pirmera línea
+y esta es la segunda.
+
+```
 
 [Inicio](#top)
+
 [indice](#item0)
 
 ### 3. Navegador
